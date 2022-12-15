@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumail-hassan
 - 👀 I’m interested in APIs, AI, data mining, NoSQL and MongoDB.
-- 🌱 I’m currently learning Java and C.
+- 🌱 I’m currently learning Java and C++.
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me? go2abbas@gmail.com
 
